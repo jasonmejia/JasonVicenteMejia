@@ -21,8 +21,7 @@ Jason Mejia
 
 ![Jason](jason-github-small.jpg)
 
-![Jason](jason-github-small.jpg)
-jason-github (2).jpg
+
 This is me!
 
 
