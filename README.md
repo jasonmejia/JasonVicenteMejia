@@ -28,8 +28,15 @@ My umages
 
 ![](images/jason-github-small.jpg)
 
-This is me!
+![](images/jason-github (2).jpg)
 
+
+
+
+https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/images/jason-github%20(2).jpg
+
+This is me!
+![](images/jason-github(2).jpg)
 
 My interests are 
 
