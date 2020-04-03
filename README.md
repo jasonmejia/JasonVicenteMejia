@@ -36,7 +36,7 @@ My umages
 
 
 This is me!
-![](images/jason-github(2).jpg)
+
 
 My interests are 
 
