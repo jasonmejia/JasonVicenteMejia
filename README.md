@@ -21,7 +21,7 @@ Jason Mejia
 
 ![Jason](jason-github-small.jpg)
 
-![Jason]<img src=https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/jason-github-small.jpg width="48"> 
+<img src=https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/jason-github-small.jpg width="400"> 
 
 This is me!
 
