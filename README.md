@@ -22,13 +22,13 @@ Jason Mejia
 
 
 
-My umages
+My images
 
 ![](images/jason-github-small.jpg)
 
 ![](images/jason-github%20(2).jpg)
 
-![](https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/images/WIN_20190715_18_47_48_Pro.jpg)
+![](images/WIN_20190715_18_47_48_Pro.jpg)
 This is me!
 
 
