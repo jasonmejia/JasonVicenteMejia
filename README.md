@@ -22,7 +22,7 @@ Jason Mejia
 ![Jason](jason-github-small.jpg)
 
 
-![Jason] (https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/jason-github-small.jpg | width=400)
+![Jason](https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/jason-github-small.jpg =200x200)
 
 This is me!
 
