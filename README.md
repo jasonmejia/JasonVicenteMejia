@@ -24,7 +24,7 @@ Jason Mejia
 
 My umages
 
-![](https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/images/jason-github-small.jpg)
+![](images/jason-github-small.jpg)
 
 ![](https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/images/jason-github%20(2).jpg)
 
