@@ -19,9 +19,9 @@ I am interested in how our persona ,personality arises from living tissue. I am 
 Those are questions that I want to reply with my research.
 Jason Mejia
 
-#![Jason](jason-github-small.jpg#center)
+![Jason](jason-github-small.jpg)
 
-<p align="center"> <https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/jason-github-small.jpg> </p>
+<https://github.com/jasonmejia/WebSiteJasonMejia/blob/master/jason-github-small.jpg> 
 
 This is me!
 
