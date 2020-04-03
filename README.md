@@ -19,7 +19,7 @@ I am interested in how our persona ,personality arises from living tissue. I am 
 Those are questions that I want to reply with my research.
 Jason Mejia
 
-![Jason](/img/jason-github-small.jpg#center)
+![Jason](jason-github-small.jpg#center)
 
 
 This is me!
